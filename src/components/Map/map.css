@@ -1,0 +1,14 @@
+
+.leaflet-container {
+    height: 500px;
+    width: 1200px;
+}
+
+h4{
+    border-bottom-style: groove;
+    text-align: center ; 
+}
+h2{
+    border-bottom-style: solid;
+    text-align: center
+}
